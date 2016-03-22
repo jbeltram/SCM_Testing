@@ -15,7 +15,7 @@ namespace SCM_Testing
 					Children = {
 						new Label {
 							XAlign = TextAlignment.Center,
-							Text = "Welcome to Xamarin Forms!"
+							Text = "Welcome to Xamarin Forms!A"
 						}
 					}
 				}
